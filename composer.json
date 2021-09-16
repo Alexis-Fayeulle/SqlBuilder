@@ -1,0 +1,14 @@
+{
+    "name": "alexisfayeulle/sqlbuilder",
+    "description": "An builder of SQL query",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-0": {
+            "sqlbuilder": "src/"
+        }
+    }
+}
