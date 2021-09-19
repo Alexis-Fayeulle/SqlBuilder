@@ -1,0 +1,83 @@
+
+ALTER <table>
+AND
+AS
+BETWEEN
+CASE
+COUNT
+Create <table>
+GROUP BY
+HAVING
+INNER JOIN
+INSERT
+IS NULL
+IS NOT NULL
+LIKE
+LIMIT
+MAX
+MIN
+OR
+ORDER BY
+OUTER JOIN
+ROUND
+SELECT
+SELECT DISTINTC
+SUM
+UPDATE
+WHERE
+WITH
+DELETE
+AVG
+
+
+
+
+// Commandes sources
+ALTER <table>
+Create <table>
+INSERT
+SELECT
+UPDATE
+WITH
+DELETE
+
+// Commande ALTER <table>
+ADD <column_name> <column_type>
+DROP (COLUMN) <column_name> <column_type>
+(MODIFY / ALTER COLUMN) <column_name> (/TYPE) <column_type>
+(CHANGE / RENAME COLUMN) <column_name_src> <column_describe_dst>
+
+// conditions de commande
+HAVING
+WHERE
+
+// fonction de champ
+// ftc a paramètre
+AS
+// ftc sans paramètre
+COUNT
+MAX
+MIN
+ROUND
+SUM
+AVG
+
+// condition de champ
+// conditions mathematiques
+=
+!= <>
+>
+>=
+<
+<=
+// condition de language
+IN
+BETWEEN
+LIKE
+IS NULL
+NOT => vas avec un param
+// connecteur de conditions
+AND
+OR
+
+//
