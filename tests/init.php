@@ -1,0 +1,9 @@
+<?php
+
+const SRC_PKG_QUERYBUILDER = __DIR__ . '/../src';
+const TEST_PKG_QUERYBUILDER = __DIR__ . '/';
+
+echo 'SRC_PKG_QUERYBUILDER: ' . SRC_PKG_QUERYBUILDER . PHP_EOL;
+echo 'TEST_PKG_QUERYBUILDER: ' . TEST_PKG_QUERYBUILDER . PHP_EOL . PHP_EOL;
+
+require_once TEST_PKG_QUERYBUILDER . '/MyTestCase.php';
